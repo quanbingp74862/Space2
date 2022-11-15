@@ -1,0 +1,5 @@
+F:\wpf_mytest\interlock\ConsoleApplication1\ClassTestDll\bin\Debug\ClassTestDll.dll
+F:\wpf_mytest\interlock\ConsoleApplication1\ClassTestDll\bin\Debug\ClassTestDll.pdb
+F:\wpf_mytest\interlock\ConsoleApplication1\ClassTestDll\obj\Debug\ClassTestDll.dll
+F:\wpf_mytest\interlock\ConsoleApplication1\ClassTestDll\obj\Debug\ClassTestDll.pdb
+F:\wpf_mytest\interlock\ConsoleApplication1\ClassTestDll\obj\Debug\ClassTestDll.csprojResolveAssemblyReference.cache
